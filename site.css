@@ -1,5 +1,7 @@
 body {
     color:#2b2a26;
+    margin: 0 0 0 0;
+    
 }
 .logo {
             
@@ -92,6 +94,7 @@ a:hover {
     .prevenda div {
         width: 100%;
         font-size: 0.5em;
+        
     }
     
     .prevenda h1 {
@@ -100,6 +103,7 @@ a:hover {
     
     .contato {
         margin-top: 1em;
+        float:left;
     }
     #menu-conv {
         display: none;
@@ -208,4 +212,5 @@ a:hover {
         
         .bloco-simples p {
             padding-left: 1em;
+            text-align: justify;
         }
