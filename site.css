@@ -185,6 +185,26 @@ a:hover {
             font-family: 'Josefin Slab', senrif;
             margin:0.1em;
         }
+
+        .rodape-contato {
+            background-color:white;
+            border-color#2b2a26;
+            border-style: dotted;
+            
+            color:#2b2a26;
+            width:80%;
+            margin:1em auto;
+            border-radius:0.5em;
+            padding-left: 1em;
+            padding-top:0.5em;
+            padding-bottom: 0.3em;
+            display: inline;
+        }
+        
+        .rodape-contato form {
+            font-family: 'Josefin Slab', senrif;
+            margin:0.1em;
+        }
         .dev {
             background-color: #af0202;
             color:white;
@@ -214,3 +234,13 @@ a:hover {
             padding-left: 1em;
             text-align: justify;
         }
+ 
+.bloco-especialidade {
+    display: none;
+}
+.bloco-clicavel h4 {
+    border: 1px solid black;
+    padding-left: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
