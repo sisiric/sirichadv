@@ -18,6 +18,10 @@ a:hover {
             font-family: 'Poiret One', senrif;
             font-size:1.4em;
         }
+
+.logo span h6 {
+    margin:0 0 0 5.2em;
+}
         
         .contato {
             background-color: #ffea93;
